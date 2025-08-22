@@ -15,9 +15,6 @@ Built using **Pygame** with animations, sound effects, and an interactive scoreb
 
 ---
 
-## 🖼️ Screenshot
-(Add a screenshot here once you run the game)
-
 ---
 
 ## ▶️ How to Run
